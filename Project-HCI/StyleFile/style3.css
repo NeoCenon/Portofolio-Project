@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("../images/chocolate1.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.title{
+    font-size: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container{
+    max-width: 700px;
+    max-height: 700px;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+.user-detail{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+form .user-detail .content{
+    width: 100%;
+    padding: 10px;
+    text-align: right;
+}
+
+.user-detail .content input{
+    width: 50%;
+    min-height: 60px;
+    height: 100%;
+    padding-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: left;
+}
+
+form .check{
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+form .button{
+    height: 70px;
+    text-align: center; 
+}
+
+.button input{
+    width: 50%;
+    text-align: center;
+    height: 100%;
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+.button a:hover{
+    color: black;
+}

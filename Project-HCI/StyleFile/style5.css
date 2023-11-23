@@ -1,0 +1,107 @@
+.container{
+    background-color: #EFCFA5;
+}
+
+.navigasi{
+    background-color: #4D3227;
+    height: 80px;
+}
+
+.navigasi h1{
+    color: #EBC999;
+    position: absolute;
+    top: 10px;
+    right: 5%;
+}
+
+.navigasi li{
+    display: inline;
+    position: relative;
+    top: 23px;
+}
+
+.navigasi a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #EBC999;
+    padding:20px;
+}
+
+.navigasi li img:hover{
+    background-color: white;
+}
+
+.navigasi a:hover{
+    color: white;
+}
+
+.header{
+    font-size: 30px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.hero{
+    height: 700px;
+}
+
+.content img{
+    padding: 10px;
+}
+
+.header2 h3{
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    bottom: 620px;
+}
+
+.header2 p{
+    font-size: 20px;
+    width: 700px;
+    position: relative;
+    left: 500px;
+    bottom: 640px;
+}
+
+.header3 h4{
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    bottom: 580px;
+}
+
+.header3 p{
+    font-size: 20px;
+    width: 700px;
+    position: relative;
+    left: 500px;
+    bottom: 600px;
+}
+
+.footer li{
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.footer{
+    position: relative;
+    background-color: #3E1313;
+}
+.content > ul{
+    list-style-type: none;
+}
+
+.footer p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.footer a:hover{
+    background-color: aquamarine;
+}

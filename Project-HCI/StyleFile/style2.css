@@ -1,0 +1,149 @@
+.container{
+    background-color: #EFCFA5;
+}
+
+.navigasi{
+    background-color: #4D3227;
+    height: 80px;
+}
+
+.navigasi h1{
+    color: #EBC999;
+    position: absolute;
+    top: 10px;
+    right: 5%;
+}
+
+.navigasi li{
+    display: inline;
+    position: relative;
+    top: 23px;
+}
+
+.navigasi a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #EBC999;
+    padding:20px;
+}
+
+.navigasi li img:hover{
+    background-color: white;
+}
+
+.navigasi a:hover{
+    color: white;
+}
+
+.hero{
+    height: 720px;
+}
+
+.header2{
+    font-size: 30px;
+    position: relative;
+    left: 130px;
+    top: 30px;
+}
+
+.content li img{
+    position: relative;
+    left: 100px;
+}
+
+.header3{
+    width: 800px;
+    height: 228px;
+    background: #4D3227;
+    position: relative;
+    left: 539px;
+    bottom: 757px;
+}
+
+.header3 h3{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left:40px;
+    bottom: -50px;
+}
+
+.header3 p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: -70px;
+}
+
+.header4{
+    width: 800px;
+    height: 243px;
+    background: #4D3227;
+    position: relative;
+    left: 539px;
+    bottom:793px;
+}
+
+.header4 h4{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: -50px;
+}
+
+.header4 p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: -70px;
+}
+
+.header5{
+    width: 800px;
+    height: 243px;
+    background: #4D3227;
+    position: relative;
+    left: 540px;
+    bottom:838px;
+}
+
+.header5 h5{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: -50px;
+}
+
+.header5 p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: -70px;
+}
+
+.footer li{
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.footer{
+    background-color: #3E1313;
+}
+
+.footer p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.footer a:hover{
+    background-color: aquamarine;
+}
